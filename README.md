@@ -1,4 +1,4 @@
-# SNT seconde - Lycée Pré de Cordy - Sarlat - 2019/2020
+# SNT seconde - Lycée Pré de Cordy - Sarlat - 2020/2021
 
 best way to learn is to find something you interested in and dive in !
 -------------------------------------------------------------------------------------------------------
@@ -13,10 +13,6 @@ best way to learn is to find something you interested in and dive in !
 ## 🚀 [devoirs,  bac blanc, jeu ...](#devoir)
 
 ## 👋 [programme officiel SNT](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/08/5/spe641_annexe_1063085.pdf)
-
-## 🌐 [modalité bac TS](https://eduscol.education.fr/pid23233-cid58536/serie-s-a-partir-de-2013.html)
-
-## 📜 [progression TS 2019-2020](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
 
 ## 😍 [fun et culture](#fun)
 
