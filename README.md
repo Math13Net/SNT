@@ -26,7 +26,7 @@ best way to learn is to find something you interested in and dive in !
 ------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours et activités SNT seconde 2020/2021
 * ### 01 - INTERNET
-  * #### [01 - adressage IP](https://github.com/Math13Net/TS/blob/master/2018_TS_Cours_00.pdf)
+  * #### [01 - adressage IP](https://github.com/Math13Net/SNT/blob/master/RA19_Lycee_G_SNT_2nd_internetreseauxsociaux_1156202.pdf)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
