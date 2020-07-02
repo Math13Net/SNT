@@ -49,7 +49,7 @@ best way to learn is to find something you interested in and dive in !
 * ### CULTURE INFORMATIQUE
   * #### [VideoDiMath](http://video.math.cnrs.fr/) 
 * ### Spécialité Numérique Sciences Informatiques
-  * #### [Raspberry Pi]()
+  * #### [Raspberry Pi](https://github.com/Math13Net/Utiliser-son-Raspberry-Pi)
   
   
   
