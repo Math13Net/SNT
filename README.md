@@ -41,7 +41,7 @@ best way to learn is to find something you interested in and dive in !
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="fun"></a> un peu de fun et de culture !
+## <a name="fun"></a> pour aller plus loin : fun, jeu, NSI !
 * ### FUN
   * #### [kangourou](http://www.mathkang.org/default.html)
   * #### [castor informatique](http://castor-informatique.fr/)
