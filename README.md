@@ -41,10 +41,16 @@ best way to learn is to find something you interested in and dive in !
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="fun"></a> pour aller plus loin : fun, jeu, NSI !
-* ### FUN
+## <a name="fun"></a> pour aller plus loin !
+* ### FUN, JEU
   * #### [kangourou](http://www.mathkang.org/default.html)
   * #### [castor informatique](http://castor-informatique.fr/)
-  * #### [émoji](https://gist.github.com/rxaviers/7360908)
-* ### CULTURE
-  * #### [VideoDiMath](http://video.math.cnrs.fr/)
+  * #### []()
+* ### CULTURE INFORMATIQUE
+  * #### [VideoDiMath](http://video.math.cnrs.fr/) 
+* ### Spécialité Numérique Sciences Informatiques
+  * #### [Raspberry Pi]()
+  
+  
+  
+  
