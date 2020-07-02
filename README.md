@@ -50,6 +50,8 @@ best way to learn is to find something you interested in and dive in !
   * #### [VideoDiMath](http://video.math.cnrs.fr/) 
 * ### Spécialité Numérique Sciences Informatiques
   * #### [présentation spécialité NSI](https://www.youtube.com/watch?v=gpJvvH8JFn4)
+  * #### [le plus grand recruteur de talent au monde : l'informatique](https://www.youtube.com/watch?v=StsVon5tfFE)
+  * #### [TOP10 des sociétés les plus riches du monde](https://www.youtube.com/watch?v=8WVoJ6JNLO8)  
   * #### [Raspberry Pi](https://github.com/Math13Net/Utiliser-son-Raspberry-Pi)
   
   
