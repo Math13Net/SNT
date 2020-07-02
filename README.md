@@ -29,7 +29,7 @@ best way to learn is to find something you interested in and dive in !
   
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour SNT
-* ### [01](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
+* ### [01 - INTERNET](https://github.com/Math13Net/SNT/blob/master/synthese-internet.pdf)
 
 
 
