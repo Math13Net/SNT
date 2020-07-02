@@ -25,7 +25,8 @@ best way to learn is to find something you interested in and dive in !
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours et activités SNT seconde 2020/2021
-* ### [01 - internet](https://github.com/Math13Net/TS/blob/master/2018_TS_Cours_00.pdf)
+* ### 01 - internet
+* #### [01 - internet](https://github.com/Math13Net/TS/blob/master/2018_TS_Cours_00.pdf)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
