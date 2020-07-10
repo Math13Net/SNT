@@ -30,6 +30,31 @@ best way to learn is to find something you interested in and dive in !
   * #### [03 - routage et cacul d'intinéraire]()
   * #### [04 - protocole TCP]()
   
+* ### 02 - WEB
+  * #### [01 - le fond et la forme]()
+  * #### [02 - frise chronologique]()
+  * #### [03 - moteur de recherche]()
+  
+* ### 03 - LES RESEAUX SOCIAUX
+  * #### [01 - repères historiques sur les réseaux sociaux]()
+  * #### [02 - activités sur les réseaux sociaux]()
+  * #### [03 - la cyberviolence]()
+  * #### [04 - notion de "petit monde"]()
+  
+* ### 04 - LES DONNEES STRUCTUREES ET LEUR TRAITEMENT
+  * #### [01 - les élèves de l'établissement]()
+  * #### [02 - données des salles de cinéma en Ile-de-France]()
+  * #### [03 - vocabulaire]()
+  * #### [04 - les fichiers vCard]()  
+  
+* ### 04 - LES DONNEES STRUCTUREES ET LEUR TRAITEMENT
+  * #### [01 - les élèves de l'établissement]()
+  * #### [02 - données des salles de cinéma en Ile-de-France]()
+  * #### [03 - vocabulaire]()
+  * #### [04 - les fichiers vCard]()   
+  
+  
+  
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour SNT
 * ### [01 - INTERNET](https://github.com/Math13Net/SNT/blob/master/synthese-internet.pdf)
