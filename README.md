@@ -73,8 +73,14 @@ best way to learn is to find something you interested in and dive in !
   
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour SNT
-* ### [01 - INTERNET](https://github.com/Math13Net/SNT/blob/master/synthese-internet.pdf)
-
+* ### [01 - INTERNET](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/1-internet/synthese-internet.pdf)
+* ### [02 - LE WEB](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/2-web/synthese-web.pdf)
+* ### [03 - LES STRUCTURES DE DONNEES ET LEUR TRAITEMENT](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/3-donnees/synthese-donnees.pdf)
+* ### [04 - LA PHOTOGRAPHIE NUMERIQUE](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/4-photographie/co/4-Photographie_web.html)
+* ### [05 - INFORMATIQUE ENBARQUEE ET OBJETS CONNECTES](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/5-objets-connectes/synthese-objets-connectes.pdf)
+* ### [06 - LOCALISATION - CARTOGRAPHIE - MOBILITE](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/6-cartographie/synthese-cartographie.pdf)
+* ### [07 - LES RESEAUX SOCIAUX](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/7-reseaux-sociaux/synthese-reseaux-sociaux.pdf)
+* ### [08 - INTRODUCTION PYTHON](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/0-programmation/synthese-programmation.pdf)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
