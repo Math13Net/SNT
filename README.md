@@ -47,11 +47,27 @@ best way to learn is to find something you interested in and dive in !
   * #### [03 - vocabulaire]()
   * #### [04 - les fichiers vCard]()  
   
-* ### 04 - LES DONNEES STRUCTUREES ET LEUR TRAITEMENT
-  * #### [01 - les élèves de l'établissement]()
-  * #### [02 - données des salles de cinéma en Ile-de-France]()
-  * #### [03 - vocabulaire]()
-  * #### [04 - les fichiers vCard]()   
+* ### 05 - LOCALISATION, CARTOGRAPHIE, MOBILITE
+  * #### [01 - routage et calculs d'intinéraires]()
+  * #### [02 - repères historiques liés à la géolocalisation]()
+  * #### [03 - principe de fonctionnement de la géolocalisation]()
+  * #### [04 - des métasdonnées d'une photographie à la détermination d'un itinéraire avec openStreetMap]()   
+  * #### [05 - introduction à la géolocalisation]()
+  * #### [06 - le zoom]()    
+  
+* ### 06 - INFORMATIQUE ENBARQUEE ET OBJETS CONNECTES
+  * #### [01 - activité 1 : frise chronologique]()
+  * #### [02 - activité 2 : impact et importance de l'informatisation des objets]()
+  * #### [03 - réalisation d'une IHM simple d'un objet connecté]()
+  * #### [04 - robot thymio]()
+    
+* ### 07 - LA PHOTOGRAPHIE NUMERIQUE
+  * #### [01 - apprendre à manimuler une image numérique]()
+  * #### [02 - traitement d'images]()
+  * #### [03 - la photographie numérique : python]()
+  * #### [04 - activité 1 : de l'aquisition à l'image]()  
+  * #### [05 - activité 2 : l'image numérique]()    
+  
   
   
   
