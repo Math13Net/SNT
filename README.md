@@ -86,7 +86,7 @@ best way to learn is to find something you interested in and dive in !
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs SNT 2020/2021
 * ### DS
-  * #### [DS1](https://github.com/Math13Net/TS1/blob/master/2019_TS_DS_1.pdf)
+  * #### [DS1]()
 
 
 
