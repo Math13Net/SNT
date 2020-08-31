@@ -24,22 +24,24 @@ best way to learn is to find something you interested in and dive in !
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours et activités SNT seconde 2020/2021
-* ### 01 - INTERNET
+* ### 01 - LES RESEAUX SOCIAUX
+  * #### [01 - repères historiques sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/09/9/RA19_Lycee_G_SNT_2nd_activites_historiques_reseausocial_1161099.pdf)
+  * #### [02 - activités sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/10/1/RA19_Lycee_G_SNT_2nd_Activites_reseaux_sociaux_1161101.pdf)
+  * #### [03 - la cyberviolence](https://cache.media.eduscol.education.fr/file/SNT/10/3/RA19_Lycee_G_SNT_2nd_cyberviolence_1161103.pdf)
+  * #### [04 - notion de "petit monde"](https://cache.media.eduscol.education.fr/file/SNT/10/5/RA19_Lycee_G_SNT_2nd_Milgram_graphe_1161105.pdf)
+
+* ### 02 - INTERNET
   * #### [01 - adressage IP](https://cache.media.eduscol.education.fr/file/SNT/20/2/RA19_Lycee_G_SNT_2nd_internetreseauxsociaux_1156202.pdf)
   * #### [02 - routage postal](https://cache.media.eduscol.education.fr/file/SNT/59/8/RA19_Lycee_G_SNT_2nd_Routagepostal_1150598.pdf)
   * #### [03 - routage et cacul d'intinéraire](https://cache.media.eduscol.education.fr/file/SNT/59/6/RA19_Lycee_G_SNT_2nd_routage_calculs_itineraires_1150596.pdf)
   * #### [04 - protocole TCP](https://cache.media.eduscol.education.fr/file/SNT/20/6/RA19_Lycee_G_SNT_2nd_protocoleTCP_1156206.pdf)
   
-* ### 02 - WEB
+* ### 03 - WEB
   * #### [01 - le fond et la forme](https://cache.media.eduscol.education.fr/file/SNT/60/0/RA19_Lycee_G_SNT_2nd_fond_forme_1150600.pdf)
   * #### [02 - frise chronologique](https://cache.media.eduscol.education.fr/file/SNT/20/6/RA19_Lycee_G_SNT_2nd_Frisechrono_1182206.pdf)
   * #### [03 - moteur de recherche](https://cache.media.eduscol.education.fr/file/SNT/20/4/RA19_Lycee_G_SNT_2nd_Pagerank_1156204.pdf)
   
-* ### 03 - LES RESEAUX SOCIAUX
-  * #### [01 - repères historiques sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/09/9/RA19_Lycee_G_SNT_2nd_activites_historiques_reseausocial_1161099.pdf)
-  * #### [02 - activités sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/10/1/RA19_Lycee_G_SNT_2nd_Activites_reseaux_sociaux_1161101.pdf)
-  * #### [03 - la cyberviolence](https://cache.media.eduscol.education.fr/file/SNT/10/3/RA19_Lycee_G_SNT_2nd_cyberviolence_1161103.pdf)
-  * #### [04 - notion de "petit monde"](https://cache.media.eduscol.education.fr/file/SNT/10/5/RA19_Lycee_G_SNT_2nd_Milgram_graphe_1161105.pdf)
+
   
 * ### 04 - LES DONNEES STRUCTUREES ET LEUR TRAITEMENT
   * #### [01 - les élèves de l'établissement](https://cache.media.eduscol.education.fr/file/SNT/70/7/RA19_Lycee_G_SNT_2nd_donnees_tableur_eleves_1160707.pdf)
