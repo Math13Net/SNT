@@ -27,6 +27,7 @@ best way to learn is to find something you interested in and dive in !
 * ### 01 - LES RESEAUX SOCIAUX
   * #### [01 - repères historiques sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/09/9/RA19_Lycee_G_SNT_2nd_activites_historiques_reseausocial_1161099.pdf)
   * #### [02 - activités sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/10/1/RA19_Lycee_G_SNT_2nd_Activites_reseaux_sociaux_1161101.pdf)
+  utilisation de la vidéo associée : [petit monde](https://youtu.be/nn1mIqW9oYQ)
   * #### [03 - la cyberviolence](https://cache.media.eduscol.education.fr/file/SNT/10/3/RA19_Lycee_G_SNT_2nd_cyberviolence_1161103.pdf)
   * #### [04 - notion de "petit monde"](https://cache.media.eduscol.education.fr/file/SNT/10/5/RA19_Lycee_G_SNT_2nd_Milgram_graphe_1161105.pdf)
   * #### [film à voir : derrière nos écrans de fumée](https://www.youtube.com/embed/c1yx2Hxl26k)
