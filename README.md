@@ -40,8 +40,9 @@ best way to learn is to find something you interested in and dive in !
   
 * ### 03 - WEB
   * #### [01 - le fond et la forme](https://cache.media.eduscol.education.fr/file/SNT/60/0/RA19_Lycee_G_SNT_2nd_fond_forme_1150600.pdf)
-  * #### [02 - frise chronologique](https://cache.media.eduscol.education.fr/file/SNT/20/6/RA19_Lycee_G_SNT_2nd_Frisechrono_1182206.pdf)
-  * #### [03 - moteur de recherche](https://cache.media.eduscol.education.fr/file/SNT/20/4/RA19_Lycee_G_SNT_2nd_Pagerank_1156204.pdf)
+  * #### [02 - mon premier site web](https://github.com/Math13Net/SNT/blob/master/Happy%20birthday%20_%20Raspberry%20Pi%20Projects.pdf)
+  * #### [03 - frise chronologique](https://cache.media.eduscol.education.fr/file/SNT/20/6/RA19_Lycee_G_SNT_2nd_Frisechrono_1182206.pdf)
+  * #### [04 - moteur de recherche](https://cache.media.eduscol.education.fr/file/SNT/20/4/RA19_Lycee_G_SNT_2nd_Pagerank_1156204.pdf)
   
 
   
