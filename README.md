@@ -3,7 +3,7 @@ Nous sommes dans une société où l'informatique est devenu INCONTOURNABLE :
 
 # SNT seconde - Lycée Jean Monnet - Montpellier - 20201/2022
 
-best way to learn is to find something you interested in and dive in !
+best way to learn is to find something you're interested in and dive in !
 -------------------------------------------------------------------------------------------------------
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
