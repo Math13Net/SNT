@@ -44,8 +44,6 @@ best way to learn is to find something you interested in and dive in !
   * #### [03 - frise chronologique](https://cache.media.eduscol.education.fr/file/SNT/20/6/RA19_Lycee_G_SNT_2nd_Frisechrono_1182206.pdf)
   * #### [04 - moteur de recherche](https://cache.media.eduscol.education.fr/file/SNT/20/4/RA19_Lycee_G_SNT_2nd_Pagerank_1156204.pdf)
   
-
-  
 * ### 04 - LES DONNEES STRUCTUREES ET LEUR TRAITEMENT
   * #### [01 - les élèves de l'établissement](https://cache.media.eduscol.education.fr/file/SNT/70/7/RA19_Lycee_G_SNT_2nd_donnees_tableur_eleves_1160707.pdf)
   * #### [02 - données des salles de cinéma en Ile-de-France](https://cache.media.eduscol.education.fr/file/SNT/93/4/RA19_Lycee_G_SNT_2nd_salles_cinema_1151934.pdf)
@@ -73,9 +71,7 @@ best way to learn is to find something you interested in and dive in !
   * #### [04 - activité 1 : de l'aquisition à l'image](https://cache.media.eduscol.education.fr/file/SNT/10/7/RA19_Lycee_G_SNT_2nd_Photo_activite1_1161107.pdf)  
   * #### [05 - activité 2 : l'image numérique](https://cache.media.eduscol.education.fr/file/SNT/10/9/RA19_Lycee_G_SNT_2nd_Photo_activite2_1161109.pdf)    
   
-  
-  
-  
+    
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour SNT
 * ### [01 - INTERNET](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/1-internet/synthese-internet.pdf)
@@ -89,18 +85,11 @@ best way to learn is to find something you interested in and dive in !
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="devoir"></a> devoirs SNT 2020/2021
-* ### DS
-  * #### [DS1]()
-
-
-
----------------------------------------------------------------------------------------------------------------------------
 ## <a name="fun"></a> pour aller plus loin !
 * ### FUN, JEU
   * #### [kangourou](http://www.mathkang.org/default.html)
   * #### [castor informatique](http://castor-informatique.fr/)
-  * #### []()
+  * #### [petitfuté](http://xn--petitfut-i1a.com/)
 * ### CULTURE INFORMATIQUE
   * #### [VideoDiMath](http://video.math.cnrs.fr/) 
 * ### Spécialité Numérique Sciences Informatiques
