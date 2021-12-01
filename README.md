@@ -41,8 +41,10 @@ best way to learn is to find something you're interested in and dive in !
 * ### 03 - WEB
   * #### [01 - le fond et la forme](https://cache.media.eduscol.education.fr/file/SNT/60/0/RA19_Lycee_G_SNT_2nd_fond_forme_1150600.pdf)
   * #### [02 - mon premier site web](https://projects.raspberrypi.org/en/projects/happy-birthday)
-  * #### [03 - frise chronologique](https://cache.media.eduscol.education.fr/file/SNT/20/6/RA19_Lycee_G_SNT_2nd_Frisechrono_1182206.pdf)
-  * #### [04 - moteur de recherche](https://cache.media.eduscol.education.fr/file/SNT/20/4/RA19_Lycee_G_SNT_2nd_Pagerank_1156204.pdf)
+    ##### [bon anniversaire](https://projects.raspberrypi.org/en/projects/happy-birthday)
+    ##### [discussion entre oiseaux](https://projects.raspberrypi.org/en/projects/cd-sebento-htmlcss-2)
+    ##### [découvrez la couleur](https://projects.raspberrypi.org/en/projects/cd-beginner-javascript-sushi)
+  * #### [03 - moteur de recherche](https://cache.media.eduscol.education.fr/file/SNT/20/4/RA19_Lycee_G_SNT_2nd_Pagerank_1156204.pdf)
   
 * ### 04 - LES DONNEES STRUCTUREES ET LEUR TRAITEMENT
   * #### [01 - les élèves de l'établissement](https://cache.media.eduscol.education.fr/file/SNT/70/7/RA19_Lycee_G_SNT_2nd_donnees_tableur_eleves_1160707.pdf)
