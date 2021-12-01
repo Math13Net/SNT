@@ -44,6 +44,7 @@ best way to learn is to find something you're interested in and dive in !
     ##### [bon anniversaire](https://projects.raspberrypi.org/en/projects/happy-birthday)
     ##### [discussion entre oiseaux](https://projects.raspberrypi.org/en/projects/cd-sebento-htmlcss-2)
     ##### [découvrez la couleur](https://projects.raspberrypi.org/en/projects/cd-beginner-javascript-sushi)
+    ##### [à vous de jouer](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript)
   * #### [03 - moteur de recherche](https://cache.media.eduscol.education.fr/file/SNT/20/4/RA19_Lycee_G_SNT_2nd_Pagerank_1156204.pdf)
   
 * ### 04 - LES DONNEES STRUCTUREES ET LEUR TRAITEMENT
