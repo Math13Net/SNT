@@ -25,7 +25,7 @@ best way to learn is to find something you're interested in and dive in !
 ------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours et activités SNT seconde 2020/2021
 * ### 01 - INTRODUCTION RAPIDE A PYTHON
-  * #### [01 - boucle FOR et WHILE]()
+  * #### [01 - boucle FOR et WHILE](https://github.com/Math13Net/SNT/blob/master/Python_Cours_1.pdf)
   * #### [02 - ]()
 
 * ### 01 - LES RESEAUX SOCIAUX
