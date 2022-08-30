@@ -1,7 +1,7 @@
 Nous sommes dans une société où l'informatique est devenu INCONTOURNABLE :
 [TOP10 des sociétés les plus riches du monde](https://www.youtube.com/watch?v=8WVoJ6JNLO8)
 
-# :santa: SNT seconde - Lycée Jean Monnet - Montpellier - 2021/2022
+# :santa: SNT seconde - Lycée Jean Monnet - Montpellier - 2022/2023
 
 best way to learn is to find something you're interested in and dive in !
 -------------------------------------------------------------------------------------------------------
