@@ -28,7 +28,7 @@ best way to learn is to find something you're interested in and dive in !
   * #### [01 - boucle FOR et WHILE](https://github.com/Math13Net/SNT/blob/master/Python_Cours_1.pdf)
   * #### [02 - fonction]()
 
-* ### 01 - LES RESEAUX SOCIAUX
+* ### 02 - LES RESEAUX SOCIAUX
   * #### [01 - repères historiques sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/09/9/RA19_Lycee_G_SNT_2nd_activites_historiques_reseausocial_1161099.pdf)
   * #### [02 - activités sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/10/1/RA19_Lycee_G_SNT_2nd_Activites_reseaux_sociaux_1161101.pdf)
   utilisation de la vidéo associée : [petit monde](https://youtu.be/nn1mIqW9oYQ)
@@ -36,13 +36,13 @@ best way to learn is to find something you're interested in and dive in !
   * #### [04 - notion de "petit monde"](https://cache.media.eduscol.education.fr/file/SNT/10/5/RA19_Lycee_G_SNT_2nd_Milgram_graphe_1161105.pdf)
   * #### [film à voir : derrière nos écrans de fumée](https://youtu.be/7mqR_e2seeM)
 
-* ### 02 - INTERNET
+* ### 03 - INTERNET
   * #### [01 - adressage IP](https://cache.media.eduscol.education.fr/file/SNT/20/2/RA19_Lycee_G_SNT_2nd_internetreseauxsociaux_1156202.pdf)
   * #### [02 - routage postal](https://cache.media.eduscol.education.fr/file/SNT/59/8/RA19_Lycee_G_SNT_2nd_Routagepostal_1150598.pdf)
   * #### [03 - routage et cacul d'intinéraire](https://cache.media.eduscol.education.fr/file/SNT/59/6/RA19_Lycee_G_SNT_2nd_routage_calculs_itineraires_1150596.pdf)
   * #### [04 - protocole TCP](https://cache.media.eduscol.education.fr/file/SNT/20/6/RA19_Lycee_G_SNT_2nd_protocoleTCP_1156206.pdf)
   
-* ### 03 - WEB
+* ### 04 - WEB
   * #### [01 - le fond et la forme](https://cache.media.eduscol.education.fr/file/SNT/60/0/RA19_Lycee_G_SNT_2nd_fond_forme_1150600.pdf)
   * #### [02 - mon premier site web](https://projects.raspberrypi.org/en/projects/happy-birthday)
     ##### [bon anniversaire](https://projects.raspberrypi.org/en/projects/happy-birthday)
@@ -51,13 +51,13 @@ best way to learn is to find something you're interested in and dive in !
     ##### [à vous de jouer](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript)
   * #### [03 - moteur de recherche](https://cache.media.eduscol.education.fr/file/SNT/20/4/RA19_Lycee_G_SNT_2nd_Pagerank_1156204.pdf)
   
-* ### 04 - LES DONNEES STRUCTUREES ET LEUR TRAITEMENT
+* ### 05 - LES DONNEES STRUCTUREES ET LEUR TRAITEMENT
   * #### [01 - les élèves de l'établissement](https://cache.media.eduscol.education.fr/file/SNT/70/7/RA19_Lycee_G_SNT_2nd_donnees_tableur_eleves_1160707.pdf)
   * #### [02 - données des salles de cinéma en Ile-de-France](https://cache.media.eduscol.education.fr/file/SNT/93/4/RA19_Lycee_G_SNT_2nd_salles_cinema_1151934.pdf)
   * #### [03 - vocabulaire](https://cache.media.eduscol.education.fr/file/SNT/93/8/RA19_Lycee_G_SNT_2nd_vocabulaire_donnees_1151938.pdf)
   * #### [04 - les fichiers vCard](https://cache.media.eduscol.education.fr/file/SNT/70/5/RA19_Lycee_G_SNT_2nd_donnees_structurees_vcard2_1160705.pdf)  
   
-* ### 05 - LOCALISATION, CARTOGRAPHIE, MOBILITE
+* ### 06 - LOCALISATION, CARTOGRAPHIE, MOBILITE
   * #### [01 - routage et calculs d'intinéraires](https://cache.media.eduscol.education.fr/file/SNT/59/6/RA19_Lycee_G_SNT_2nd_routage_calculs_itineraires_1150596.pdf)
   * #### [02 - repères historiques liés à la géolocalisation](https://cache.media.eduscol.education.fr/file/SNT/79/8/RA19_Lycee_G_SNT_2nd_reperes_histo_geoloc_1160798.pdf)
   * #### [03 - principe de fonctionnement de la géolocalisation](https://cache.media.eduscol.education.fr/file/SNT/79/2/RA19_Lycee_G_SNT_2nd_fonctionnement_geoloc_1160792.pdf)
@@ -65,13 +65,13 @@ best way to learn is to find something you're interested in and dive in !
   * #### [05 - introduction à la géolocalisation](https://cache.media.eduscol.education.fr/file/SNT/79/4/RA19_Lycee_G_SNT_2nd_intro_geoloc_1160794.pdf)
   * #### [06 - le zoom](https://cache.media.eduscol.education.fr/file/SNT/80/0/RA19_Lycee_G_SNT_2nd_zoom_1160800.pdf)    
   
-* ### 06 - INFORMATIQUE ENBARQUEE ET OBJETS CONNECTES
+* ### 07 - INFORMATIQUE ENBARQUEE ET OBJETS CONNECTES
   * #### [01 - activité 1 : frise chronologique](https://cache.media.eduscol.education.fr/file/SNT/66/2/RA19_Lycee_G_SNT_2nd_objetsconnectes_activite1_1201662.pdf)
   * #### [02 - activité 2 : impact et importance de l'informatisation des objets](https://cache.media.eduscol.education.fr/file/SNT/66/3/RA19_Lycee_G_SNT_2nd_objetsconnectes_activite2_1201663.pdf)
   * #### [03 - réalisation d'une IHM simple d'un objet connecté](https://cache.media.eduscol.education.fr/file/SNT/66/4/RA19_Lycee_G_SNT_2nd_objetsconnectes_activite3_1201664.pdf)
   * #### [04 - robot thymio](https://cache.media.eduscol.education.fr/file/SNT/66/5/RA19_Lycee_G_SNT_2nd_objetsconnectes_activite4_1201665.pdf)
     
-* ### 07 - LA PHOTOGRAPHIE NUMERIQUE
+* ### 08 - LA PHOTOGRAPHIE NUMERIQUE
   * #### [01 - apprendre à manimuler une image numérique](https://cache.media.eduscol.education.fr/file/SNT/11/1/RA19_Lycee_G_SNT_2nd_Photo_apprendre_manipuler_image_1161111.pdf)
   * #### [02 - traitement d'images](https://cache.media.eduscol.education.fr/file/SNT/11/5/RA19_Lycee_G_SNT_2nd_Photo_traitement_images_1161115.pdf)
   * #### [03 - la photographie numérique : python](https://cache.media.eduscol.education.fr/file/SNT/11/3/RA19_Lycee_G_SNT_2nd_Photo_python_1161113.pdf)
