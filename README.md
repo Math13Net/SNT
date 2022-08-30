@@ -24,6 +24,10 @@ best way to learn is to find something you're interested in and dive in !
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours et activités SNT seconde 2020/2021
+* ### 01 - INTRODUCTION RAPIDE A PYTHON
+  * #### [01 - boucle FOR et WHILE]()
+  * #### [02 - ]()
+
 * ### 01 - LES RESEAUX SOCIAUX
   * #### [01 - repères historiques sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/09/9/RA19_Lycee_G_SNT_2nd_activites_historiques_reseausocial_1161099.pdf)
   * #### [02 - activités sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/10/1/RA19_Lycee_G_SNT_2nd_Activites_reseaux_sociaux_1161101.pdf)
