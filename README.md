@@ -13,7 +13,7 @@ best way to learn is to find something you're interested in and dive in !
 
 ## 🔥 [fiches, résumés](#resume)
 
-## 🚀 [devoirs,  bac blanc, jeu ...](#devoir)
+## 🚀 [devoirs](#devoir)
 
 ## 👋 [programme officiel SNT](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/08/5/spe641_annexe_1063085.pdf)
 
@@ -91,6 +91,10 @@ best way to learn is to find something you're interested in and dive in !
 * ### [06 - INFORMATIQUE ENBARQUEE ET OBJETS CONNECTES](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/5-objets-connectes/synthese-objets-connectes.pdf)
 * ### [07 - LA PHOTOGRAPHIE NUMERIQUE](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/4-photographie/co/4-Photographie_web.html)
 * ### [08 - INTRODUCTION PYTHON](http://sciences-ingenieur.genevoix-signoret-vinci.fr/SNT/0-programmation/synthese-programmation.pdf)
+
+---------------------------------------------------------------------------------------------------------------------------
+## <a name="devoir"></a> devoir
+* ### [SNT - devoir 1](https://github.com/Math13Net/SNT/blob/master/SNT%20-%20devoir%201.pdf)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
