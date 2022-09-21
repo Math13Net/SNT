@@ -29,6 +29,10 @@ best way to learn is to find something you're interested in and dive in !
   * #### [02 - fonction](https://github.com/Math13Net/SNT/blob/master/Python_Cours_02.pdf)
   * #### [03 - liste](https://github.com/Math13Net/SNT/blob/master/Python_Cours_03.pdf)
   * #### [04 - chaîne de caractère](https://github.com/Math13Net/SNT/blob/master/Python_Cours_04.pdf)
+  * #### [05 - écrire dans 1 fichier](https://github.com/Math13Net/SNT/blob/master/Python_Cours_05.pdf)
+  * #### [06 - probabilités](https://github.com/Math13Net/SNT/blob/master/Python_Cours_06.pdf)
+  * #### [07 - graphique](https://github.com/Math13Net/SNT/blob/master/Python_Cours_07.pdf)
+  * #### [11 - présentation d'un résultat](https://github.com/Math13Net/SNT/blob/master/Python_Cours_11.pdf)
 
 * ### 02 - LES RESEAUX SOCIAUX
   * #### [01 - repères historiques sur les réseaux sociaux](https://cache.media.eduscol.education.fr/file/SNT/09/9/RA19_Lycee_G_SNT_2nd_activites_historiques_reseausocial_1161099.pdf)
