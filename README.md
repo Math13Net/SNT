@@ -106,7 +106,7 @@ best way to learn is to find something you're interested in and dive in !
 * ### FUN, JEU
   * #### [kangourou](http://www.mathkang.org/default.html)
   * #### [castor informatique](http://castor-informatique.fr/)
-  * #### [petitfuté](http://xn--petitfut-i1a.com/)
+
 * ### CULTURE INFORMATIQUE
   * #### [VideoDiMath](http://video.math.cnrs.fr/) 
 * ### Spécialité Numérique Sciences Informatiques
