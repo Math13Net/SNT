@@ -32,6 +32,7 @@ best way to learn is to find something you're interested in and dive in !
   * #### [05 - écrire dans 1 fichier](https://github.com/Math13Net/SNT/blob/master/Python_Cours_05.pdf)
   * #### [06 - probabilités](https://github.com/Math13Net/SNT/blob/master/Python_Cours_06.pdf)
   * #### [07 - graphique](https://github.com/Math13Net/SNT/blob/master/Python_Cours_07.pdf)
+  * #### [10 - invitation aux classes](https://github.com/Math13Net/SNT/blob/master/Python_Cours_10.pdf)  
   * #### [11 - présentation d'un résultat](https://github.com/Math13Net/SNT/blob/master/Python_Cours_11.pdf)
 
 * ### 02 - LES RESEAUX SOCIAUX
