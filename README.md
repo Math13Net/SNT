@@ -1,4 +1,4 @@
-Nous sommes dans une société où l'informatique est devenu INCONTOURNABLE :
+Nous sommes dans une société où l'anglais et l'informatique est devenu INCONTOURNABLE :
 [Top RICHEST COMPANIES Of The World 2025](https://youtu.be/64ftDUeUrQY?si=5bmjocw5XYVPrmE1)
 
 # :santa: SNT seconde
