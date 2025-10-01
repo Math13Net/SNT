@@ -1,5 +1,5 @@
 Nous sommes dans une société où l'informatique est devenu INCONTOURNABLE :
-[TOP10 des sociétés les plus riches du monde](https://www.youtube.com/watch?v=8WVoJ6JNLO8)
+[Top RICHEST COMPANIES Of The World 2025](https://youtu.be/64ftDUeUrQY?si=5bmjocw5XYVPrmE1)
 
 # :santa: SNT seconde
 
